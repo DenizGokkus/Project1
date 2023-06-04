@@ -3,6 +3,7 @@
  named Sequence, is a template class that can store elements of any type for both the key and information.
 The project involves a external function Produce . The function produce creates a new sequence by interleaving elements from two sequences seq1 and seq2 (where starting positions are specified by indicies)
 
+
 --------------- an example of the produce function --------
 
 
